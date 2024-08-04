@@ -9,6 +9,9 @@ import Remy from "../../public/images/Remy.jpg"
 import Agnes from "../../public/images/AgnesWalker.jpg"
 import Howard from "../../public/images/Howard.jpg"
 import Cindy from "../../public/images/Cindy.jpg"
+import city from "../../public/images/city.jpg"
+import tea from "../../public/images/tea.jpg"
+import tokyo from "../../public/images/tokyo.jpg"
 const Rightbar = () => {
   return (
     <Box flex={2} p={2}
